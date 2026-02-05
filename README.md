@@ -4,3 +4,4 @@ In this project, I had analyzed Pizza Sales data from an CSV file, then I used M
 Programming Languages Used: 1. Microsoft Excel.
                             2. MySQL.
                             
+<img width="850" height="443" alt="Pizza Dash" src="https://github.com/user-attachments/assets/1f69adfb-084d-456d-9300-9488b2420124" />
